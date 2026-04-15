@@ -1,0 +1,3 @@
+For this chapter we review IO, conditions, functions, lists and dictionaries. How we would create a menu based console app.
+
+For the assignment we give them a starter code file that has a main function with menu options printed, then if/else if chain to call call functions. Students have to implement while loops to repeat the code, check for proper input and then create the functions and call them from the main().
