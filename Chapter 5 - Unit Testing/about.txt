@@ -1,0 +1,1 @@
+Now that we have some objects created we can implement some unit testing. Here we discuss how we can test out objects, input on the console and other methods/functions we have created. We are using the unittest module that comes with Python. Later courses we use pytest.
