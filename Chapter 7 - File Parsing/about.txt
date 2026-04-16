@@ -1,0 +1,1 @@
+We explore the use of the csv, xml and json libraries that python has to process those files. In the assignment/work we export "reports" as csv, create an XML migrator (from one system to another reading in XML data) and then use JSON to read and write out all current data in our system. We now how everythign saved perpetually. (until we talk about databases).
