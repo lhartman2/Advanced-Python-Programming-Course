@@ -1,0 +1,1 @@
+We further discuss objects by introducing inheritance in python. Discuss the use of polymorphism. Also introduce enums as python uses inheritance to implement them.
