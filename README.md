@@ -22,7 +22,7 @@ Our college has 10/11 week quarters. This course is laid out into 9 modules (wit
 ### Chapter 5 - Unit Testing
 * Now that we have our objects created we can make sure they work as intended so let's introduce unit testing. We explore the use of the unittesting library in python to test our objects, the mock for faking our console input and any other functions/methods that we need to test.
 
-### Chapter 6 - Data Structures and Set Comprehensions
+### Chapter 6 - Data Structures and Comprehensions
 * We have already litely discussed lists and dictionaries in our review and also the introductory classes but do students really understand them? Here we further discuss all the methods and functions we can use with lists and dictionaries. We also discuss the use of sets and tuples. Lastly we explor more with actually using data structures by implementing modify and delete operations to our objects that are stored in lists in our console application for the assignment. This chapter I also use AI to generate a data loading function by giving it my objects code and dictionary/list database (the fake temp database as a list made in chapter 2) so that we can better test our data structures modify and delete operations. Students also perform a filter operation using set comprehensions.
 
 ### Chapter 7 - File Parsing
