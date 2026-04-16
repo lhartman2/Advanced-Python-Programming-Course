@@ -1,0 +1,1 @@
+This chapter we introduce objects. Previously we were using a list of dictionaries to organize and store data. But now we will convert those to objects. We will learn about getter/setters, the constructor, and helpful dunnder methods like __str__. We also discuss decorators like @property.
