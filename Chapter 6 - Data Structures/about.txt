@@ -1,0 +1,1 @@
+Here we look at data structures more than just lists and dictionaries. We also do a more deep dive in really just using data structures to make a console application more advanced. Assignments before just had adding in entries but now we are going to look at how we can modify and delete.
