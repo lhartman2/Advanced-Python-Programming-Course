@@ -34,3 +34,6 @@ Our college has 10/11 week quarters. This course is laid out into 9 modules (wit
 ## Work In Progress
 I created this book on the fly. I did some modifications and restructuring from what ChatGPT outputed for me. I still have not fully "reviewed" for all grammatical error and rewrites.
 
+### Feedback
+If you have feedback for me, feel free to contact me:  lhartman2@mccneb.edu
+
